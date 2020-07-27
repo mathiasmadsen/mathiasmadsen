@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+I'm a happy coder working for [Klausen + Partners A/S](https://kogp.dk)
+
 
 <!--
 **mathiasmadsen/mathiasmadsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
