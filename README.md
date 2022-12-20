@@ -1,5 +1,5 @@
 ### Hi 👋
-I'm a happy coder working for [Klausen + Partners A/S](https://kogp.dk)
+I'm a happy coder working for [Klausen and Partners A/S](https://kogp.dk)
 
 
 <!--
