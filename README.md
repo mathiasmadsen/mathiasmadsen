@@ -1,5 +1,7 @@
 ### Hi 👋
-I'm a happy coder working for [Klausen and Partners A/S](https://kogp.dk)
+I'm a happy fullstack developer working for [Klausen and Partners A/S](https://kogp.dk)
+
+I have a curious mind that explores many technologies and approaches to problem solving. So the below list does not cover everything, but rather what I have been working with the most.
 
 # ⚡ Here is my tech stack
 ## Front and backend
@@ -19,6 +21,11 @@ I'm a happy coder working for [Klausen and Partners A/S](https://kogp.dk)
 - Next.js
 - Remix
 - Vue
+- Vite
+
+## Design frameworks
+- Tailwind
+- Bootstrap
 
 ## CMS
 - DatoCMS
